@@ -45,13 +45,13 @@ Full-stack developer by background, heading toward embedded systems and defense/
 
 ## 🌐 Portfolio
 
-👉 **[your-portfolio-link.com](https://portfolio-uyvy.onrender.com)**
+👉 This is my **[Portfolio](https://portfolio-uyvy.onrender.com)**. Go there to see more.
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [Ahmad Alrashdan](https://www.linkedin.com/in/ahmad-alrashdan-860a3a374)
-- ✉️ Email: ahmad.mo.alrashdan@gmail.com
-- 🐦 Reddit: [u/Ahmad_IOT](https://www.reddit.com/user/Ahmad_IOT/)
-- ▶️ YouTube: [Channel name](https://youtube.com/@your_channel)
+- LinkedIn: [Ahmad Alrashdan](https://www.linkedin.com/in/ahmad-alrashdan-860a3a374)
+- Email: ahmad.mo.alrashdan@gmail.com
+- Reddit: [u/Ahmad_IOT](https://www.reddit.com/user/Ahmad_IOT/)
+- YouTube: [Channel name](https://youtube.com/@your_channel)
